@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with Golang
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=aabdullahgungor&show_icons=true&theme=radical)
+
+
 <!--
 **aabdullahgungor/aabdullahgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
