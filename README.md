@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-👋 Hi, I'm Abdullah
-👀 I’m interested in C, Python and Golang
-🌱 I’m currently learning Golang
-🤔 I’m looking for help with Golang
+- 👋 Hi, I'm Abdullah
+- 👀 I’m interested in C, Python and Golang
+- 🌱 I’m currently learning Golang
+- 🤔 I’m looking for help with Golang
 
 <!--
 **aabdullahgungor/aabdullahgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
