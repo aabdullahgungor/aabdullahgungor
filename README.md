@@ -5,7 +5,9 @@
 - 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with Golang
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=aabdullahgungor&show_icons=true&theme=radical)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aabdullahgungor&show_icons=true&theme=transparent)
 
 
 <!--
@@ -17,4 +19,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: 
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=aabdullahgungor&show_icons=true&theme=radical)
 -->
