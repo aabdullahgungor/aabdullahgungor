@@ -4,6 +4,9 @@
 - 👀 I’m interested in C, Python and Golang
 - 🌱 I’m currently learning Golang
 - 🤔 I’m looking for help with Golang
+
+
+- 🚀#OpenToWork
 - 🧑‍💼 I want to work as a Golang developer
 
 
