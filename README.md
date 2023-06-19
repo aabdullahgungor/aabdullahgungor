@@ -7,10 +7,9 @@
 - 🤔 I’m looking for help with Golang
 
 ### My Backend Clean Architecture Projects with Golang
-- [Personal Resume API](https://github.com/aabdullahgungor/personel-resume-api)
-- [Product API](https://github.com/aabdullahgungor/product-api)
-- [Mybookcase API](https://github.com/aabdullahgungor/mybookcase)
-
+- [Personal Resume API (PostgreSQL)](https://github.com/aabdullahgungor/personel-resume-api)
+- [Product API (MongoDB)](https://github.com/aabdullahgungor/product-api)
+- [Mybookcase API (MySQL)](https://github.com/aabdullahgungor/mybookcase)
 
 
 <!--
