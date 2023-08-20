@@ -2,7 +2,8 @@
 
 ### 👋 Hi, I'm [Abdullah Güngör](https://www.linkedin.com/in/abdullahgungor/)
 - 🚀#OpenToWork
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in C, Python, JavaScript and Golang
+- 🌱 I’m currently learning Golang, JavaScript
 - 🧑‍💼 I want to work as a Golang developer
 - 🤔 I’m looking for help with Golang
 
@@ -14,7 +15,7 @@
 
 <!--
 **aabdullahgungor/aabdullahgungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👀 I’m interested in C, Python and Golang
+
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
