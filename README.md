@@ -2,10 +2,10 @@
 
 ### 👋 Hi, I'm [Abdullah Güngör](https://www.linkedin.com/in/abdullahgungor/)
 - 🚀#OpenToWork
-- 👀 I’m interested in C, Python, JavaScript and Golang
-- 🌱 I’m currently learning Golang, JavaScript
+- 👀 I’m interested in C, Python, JavaScript, React and Golang
+- 🌱 I’m currently learning Golang, JavaScript, React
 - 🧑‍💼 I want to work as a Golang developer
-- 🤔 I’m looking for help with Golang
+- 🤔 I’m looking for help with Golang and React
 
 ### My Backend Clean Architecture Projects with Golang
 - [Personal Resume API (PostgreSQL)](https://github.com/aabdullahgungor/personel-resume-api)
