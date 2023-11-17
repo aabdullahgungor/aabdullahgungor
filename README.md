@@ -3,7 +3,6 @@
 ### 👋 Hi, I'm [Abdullah Güngör](https://www.linkedin.com/in/abdullahgungor/)
 
 - 👀 I’m interested in C, Python, JavaScript and Golang
-- 🌱 I’m currently learning C, Golang, JavaScript
 
 
 ### My Backend Clean Architecture Projects with Golang
@@ -23,5 +22,6 @@
 - 📫 How to reach me: 
 - 🧑‍💼 I want to work as a Golang developer
 - 🤔 I’m looking for help with Golang 
+- 🌱 I’m currently learning C, Golang, JavaScript
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aabdullahgungor&show_icons=true&theme=radical)
 -->
